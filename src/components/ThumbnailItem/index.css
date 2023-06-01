@@ -1,0 +1,19 @@
+.list-items {
+    list-style-type:none;
+}
+
+.button-css {
+    border:none;
+    background-color:transparent;
+    cursor:pointer;
+}
+
+
+.image-css {
+    opacity:0.5;
+
+}
+
+.active {
+    opacity:1.0;
+}
